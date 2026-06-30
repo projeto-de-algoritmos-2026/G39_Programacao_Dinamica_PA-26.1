@@ -390,14 +390,6 @@ with tab4:
     - Reconstrói a solução fazendo backtracking
     """)
     
-    st.subheader("Complexidade")
-    st.markdown("""
-    - **Tempo:** O(n log n) - dominado pela ordenação
-    - **Espaço:** O(n) - para armazenar a tabela DP
-    
-    Onde n = número de aulas
-    """)
-    
     st.subheader("Por que aulas são rejeitadas?")
     st.markdown("""
     Uma aula é **rejeitada** quando:

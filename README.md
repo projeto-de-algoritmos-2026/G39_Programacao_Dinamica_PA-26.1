@@ -9,7 +9,15 @@ Um sistema que usa **Programação Dinâmica** para encontrar o melhor conjunto 
 # Autor
 
 * Eduardo de Almeida Morais - 231011275
+
 ---
+
+# Vídeo de apresentação
+
+https://www.youtube.com/watch?v=mKA1ddHgbUQ
+
+---
+
 
 ## O Problema
 
